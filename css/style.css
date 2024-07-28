@@ -519,9 +519,9 @@ a {
 .modal-close-btn {
   width: 24px;
   height: 24px;
-  background-color: var(--cornflower);
-  color: var(--navy-blue);
+  background-color: #e7e9fc;   color: var(--navy-blue);
   position: absolute;
+  padding: 0; 
   top: 24px;
   right: 24px;
   border-radius: 50%;
