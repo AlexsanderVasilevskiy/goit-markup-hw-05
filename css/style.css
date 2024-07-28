@@ -599,10 +599,11 @@ a {
 .modal-input:focus + .modal-icon {
   fill: #4D5AE5;
 }
-
+.modal-field-1{
+  margin-bottom: 16px
+}
 .user-comment {
   border: 1px solid rgba(46, 47, 66, 0.4);
-  margin-bottom: 16px;
   border-radius: 4px;
   width: 100%;
   height: 120px;
@@ -627,6 +628,7 @@ a {
   line-height: 1.16667;
   letter-spacing: 0.04em;
   color: rgba(46, 47, 66, 0.4);
+  
 }
 
 .modal-icon {
@@ -637,4 +639,16 @@ a {
   transform: translateY(-50%); 
 }
 
-
+.chekbox{
+  margin-bottom: 24px; 
+}
+.chekbox1{
+  
+}
+.chekbox-label{
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
+  
+}
