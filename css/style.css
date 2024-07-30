@@ -635,6 +635,9 @@ a {
 
 .checkbox {
   margin-bottom: 24px;
+  border-radius: 4px;
+width: 360px;
+height: 16px;
 }
 .chekbox1 {
 }
