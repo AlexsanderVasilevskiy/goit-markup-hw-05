@@ -593,8 +593,9 @@ a {
 .modal-input:focus + .modal-icon {
   fill: #4d5ae5;
 }
-.modal-field-1 {
+.modal-field-a {
   margin-bottom: 16px;
+  
 }
 .user-comment {
   border: 1px solid rgba(46, 47, 66, 0.4);
@@ -639,8 +640,7 @@ a {
 width: 360px;
 height: 16px;
 }
-.chekbox1 {
-}
+
 .checkbox-label {
   font-size: 12px;
   line-height: 1.17;
