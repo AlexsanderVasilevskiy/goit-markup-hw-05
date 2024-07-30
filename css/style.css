@@ -663,7 +663,14 @@ a {
   background-color: #404bbf;
   border: none;
   fill: #F4F4FD;
-
+}
+.Privacy-Policy{
+  display: inline;
+  line-height: 16px; 
+  line-height: 1.33333;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #4d5ae5;
 }
 
 .btn-modal {
